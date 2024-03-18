@@ -2,7 +2,9 @@ import React from 'react'
 
 const Hightlights = () => {
   return (
-    <div>Hightlights</div>
+    <section>
+      
+    </section>
   )
 }
 
